@@ -52,8 +52,9 @@ My 'Trophy case':
 ![Peers Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jimi-1337&layout=compact&bg_color=7049c7,86a8e7,E56EB2&title_color=fff&text_color=fff)
 
 <a href="https://github.com/jimi-1337?tab=repositories">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=jimi-1337&line_height=40&show_icons=true&theme=dark">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimi-1337&theme=dark"/>
 </a>
+
 
 
 

@@ -7,7 +7,7 @@
     - 2021 Goals: Contrubute more to Open Source project
 
 ### Contact me
-[<img align="left" alt="amoujane | LinkedIn" width="22px" src="src="https://icon-library.com/images/linked-in-icon-small/linked-in-icon-small-24.jpg"" />][linkedin]
+[<img align="left" alt="amoujane | LinkedIn" width="22px" src="https://icon-library.com/images/linked-in-icon-small/linked-in-icon-small-24.jpg" />][linkedin]
 
 <br />
 

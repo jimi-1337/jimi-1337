@@ -1,5 +1,5 @@
 ### Hi there,
-#### I'm Peer de Bakker, a student at 42's campus in khouribga named 1337. 
+#### I'm ayoub, a student at 42's campus in khouribga named 1337. 
 #### this is my [Portfolio][website]
 
 ## I'm a full stack developer

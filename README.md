@@ -17,7 +17,7 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Nestjs" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nestjs/nestjs.png" />
+<img align="left" alt="Nestjs" width="26px" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fseeklogo.com%2Fimages%2FN%2Fnestjs-logo-09342F76C0-seeklogo.com.png&imgrefurl=https%3A%2F%2Fseeklogo.com%2Fvector-logo%2F341269%2Fnestjs&tbnid=8-mUZuqFi_QH_M&vet=12ahUKEwiPlNitlIbzAhXB34UKHaAoBLQQMygBegUIARCoAQ..i&docid=rxqLnlDEmR_sXM&w=300&h=299&q=nestjs%20logo&ved=2ahUKEwiPlNitlIbzAhXB34UKHaAoBLQQMygBegUIARCoAQ" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />

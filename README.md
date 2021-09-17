@@ -5,7 +5,6 @@
     - 2021 Goals: Contrubute more to Open Source project
 
 ### Contact with me
-[<img align="left" alt="amoujane | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 [<img align="left" alt="amoujane | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />

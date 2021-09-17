@@ -1,11 +1,13 @@
-### Hi ther, I'm ayoub - aka [Portfolio][website]
+### Hi there,
+#### I'm Peer de Bakker, a student at 42's campus in khouribga named 1337. 
+#### this is my [Portfolio][website]
 
 ## I'm a full stack developer
     - I'm currently learning everything
     - 2021 Goals: Contrubute more to Open Source project
 
 ### Contact me
-[<img align="left" alt="amoujane | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="amoujane | LinkedIn" width="22px" src="src="https://icon-library.com/images/linked-in-icon-small/linked-in-icon-small-24.jpg"" />][linkedin]
 
 <br />
 
@@ -33,6 +35,26 @@
 <br />
 <br />
 
+I just finished the common core at 1337 and during the next 6 months I will be doing my internship.
+After this, I plan to come back to 1337 to tackle the Algorithms and Cybersecurity branches!
+
+
+[![amoujane's 42 stats](https://badge42.herokuapp.com/api/stats/amoujane)](https://github.com/JaeSeoKim/badge42)
+
+My 'Trophy case':
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=jimi-1337&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### Skills
+<img src="https://img.shields.io/badge/c%20-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/c++%20-00599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/ruby%20-CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/python%20-3776AB.svg?&style=for-the-badge&logo=python&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/slack%20-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/vscode%20-007ACC.svg?&style=for-the-badge&logo=slack&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/git%20-F050532.svg?&style=for-the-badge&logo=git&logoColor=FFFFFF"/>
+
+---
+
+![Peers's github stats](https://github-readme-stats.vercel.app/api?username=jimi-1337&theme=radical&count_private=true&show_icons=true&bg_color=7049c7,86a8e7,E56EB2&title_color=fff&text_color=fff)
+
+![Peers Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jimi-1337&layout=compact&bg_color=7049c7,86a8e7,E56EB2&title_color=fff&text_color=fff)
 
 
 [website]: https://jimi-1337.github.io/Portfolio_ready/

@@ -4,7 +4,7 @@
 
 ## I'm a full stack developer
     - I'm currently learning everything
-    - 2021 Goals: Contribute more to Open Source project
+    - 2022 Goals: Contribute more to Open Source project
 
 ### Contact me
 [<img align="left" alt="amoujane | LinkedIn" width="22px" src="https://icon-library.com/images/linked-in-icon-small/linked-in-icon-small-24.jpg" />][linkedin]

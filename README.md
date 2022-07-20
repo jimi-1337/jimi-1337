@@ -35,8 +35,6 @@
 <br />
 <br />
 
-I just finished the common core at 1337 and during the next 6 months I will be doing my internship.
-After this, I plan to come back to 1337 to tackle the Algorithms and Cybersecurity branches!
 
 
 [![amoujane's 42 stats](https://badge42.vercel.app/api/v2/cl5tt3yot005409l8mfsa9u85/stats?cursusId=21&coalitionId=74)](https://github.com/JaeSeoKim/badge42)

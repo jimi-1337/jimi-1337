@@ -52,6 +52,6 @@ My 'Trophy case':
 ![Peers Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jimi-1337&layout=compact&bg_color=7049c7,86a8e7,E56EB2&title_color=fff&text_color=fff)
 
 
-[website]: https://jimi-1337.netlify.app/
+[website]: https://jimi1337.netlify.app/
 [instagram]: https://www.instagram.com/moujane.a/
 [linkedin]: https://www.linkedin.com/in/moujane-ayoub/

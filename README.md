@@ -1,57 +1,25 @@
-### Hi there,
-#### I'm ayoub, a student at 42's campus in khouribga named 1337. 
-#### this is my [Portfolio][website]
+Hi there  |  I am jimi 👋
+------------------------------------
 
-## I'm a full stack developer
-    - I'm currently learning everything
-    - 2022 Goals: Contribute more to Open Source project
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-### Contact me
-[<img align="left" alt="amoujane | LinkedIn" width="22px" src="https://icon-library.com/images/linked-in-icon-small/linked-in-icon-small-24.jpg" />][linkedin]
+- 🔭 I’m a **Senior Full-Stack Engineer** building scalable web platforms from frontend to DevOps.
+- 💡 Some of my core skills: **TypeScript**, **React / Next.js**, **Node.js / NestJS**, **Docker & PM2**, **Redis**, **AWS (S3, deployment, automation)**, and rock-solid CI/CD pipelines.
+- 🚀 I’m interested in **Crypto, Web3, and decentralized app architecture** — exploring how blockchain tech and smart contracts can power the next generation of web experiences.
+- ✅ I value clean architecture, maintainable code, and flexible solutions that scale without hard-coding or tech debt.
 
-<br />
+[<img align="center" alt="portfolio | link" width="38px" src="https://media.discordapp.net/attachments/635278809741918218/965786404942647306/unknown.png" />][portfolio]
 
-### Languages and Tools:
+[portfolio]: https://jimi1337.netlify.app
+[linkedin]: http://linkedin.com/in/moujane-ayoub
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="C (Programming language)" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
-<img align="left" alt="C++" width="26px" src="https://i.pinimg.com/originals/0b/84/9c/0b849c72f38362fe12072a4916660013.png" />
-<img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />
-<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-<img align="left" alt="Nginx" width="26px" src="https://pbs.twimg.com/profile_images/1293252199653371904/NUBlg7jw.jpg" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Nestjs" width="26px" src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png" />
-<img align="left" alt="Prisma" width="26px" src="https://seeklogo.com/images/P/prisma-logo-3805665B69-seeklogo.com.png" />
-<img align="left" alt="Postgresql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+## 📈 My Github status
 
+<p align="left">
+  <img width="43%" src="https://awesome-github-stats.azurewebsites.net/user-stats/guru?cardType=github&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=guru&theme=radical" />
+</p>
 
-<br />
-<br />
-
-
-
-[![amoujane's 42 stats](https://badge42.vercel.app/api/v2/cl5tt3yot005409l8mfsa9u85/stats?cursusId=21&coalitionId=74)](https://github.com/JaeSeoKim/badge42)
-[![amoujane's 42 stats](https://badge42.vercel.app/api/v2/cl5tt3yot005409l8mfsa9u85/stats?cursusId=6&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
-
-My 'Trophy case':
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=jimi-1337&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-
-![Peers's github stats](https://github-readme-stats.vercel.app/api?username=jimi-1337&theme=radical&count_private=true&show_icons=true&bg_color=7049c7,86a8e7,E56EB2&title_color=fff&text_color=fff)
-
-![Peers Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jimi-1337&layout=compact&bg_color=7049c7,86a8e7,E56EB2&title_color=fff&text_color=fff)
-
-
-[website]: https://jimi1337.netlify.app/
-[instagram]: https://www.instagram.com/moujane.a/
-[linkedin]: https://www.linkedin.com/in/moujane-ayoub/
+<p align="left">
+   <img width="40%" src="https://github-readme-stats.vercel.app/api?username=guru&show_icons=true&theme=radical" />
+</p>

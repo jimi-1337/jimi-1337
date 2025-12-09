@@ -17,9 +17,10 @@ Hi there  |  I am jimi 👋
 
 <p align="left">
   <img width="43%" src="https://awesome-github-stats.azurewebsites.net/user-stats/jimi-1337?cardType=github&theme=radical" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=jimi-1337&theme=radical" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=jimi-1337&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 <p align="left">
-   <img width="40%" src="https://github-readme-stats-git-masterorgs-github-readme-stats.vercel.app/api?username=jimi-1337&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jimi-1337&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimi-1337&layout=compact&theme=radical&hide_border=true" />
 </p>

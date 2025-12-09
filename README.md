@@ -16,10 +16,10 @@ Hi there  |  I am jimi 👋
 ## 📈 My Github status
 
 <p align="left">
-  <img width="43%" src="https://awesome-github-stats.azurewebsites.net/user-stats/guru?cardType=github&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=guru&theme=radical" />
+  <img width="43%" src="https://awesome-github-stats.azurewebsites.net/user-stats/jimi-1337?cardType=github&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jimi-1337&theme=radical" />
 </p>
 
 <p align="left">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=guru&show_icons=true&theme=radical" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=jimi-1337&show_icons=true&theme=radical" />
 </p>

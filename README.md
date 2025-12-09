@@ -21,5 +21,5 @@ Hi there  |  I am jimi 👋
 </p>
 
 <p align="left">
-   <img width="40%" src="https://github-readme-stats.vercel.app/api?username=jimi-1337&show_icons=true&theme=radical" />
+   <img width="40%" src="https://github-readme-stats-git-masterorgs-github-readme-stats.vercel.app/api?username=jimi-1337&show_icons=true&theme=radical" />
 </p>

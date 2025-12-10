@@ -1,25 +1,55 @@
-Hi there  |  I am jimi 👋
-------------------------------------
+# Hi there — I’m jimi 👋
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="220"/>
 
-- 🔭 I’m a **Senior Full-Stack Engineer** building scalable web platforms from frontend to DevOps.
-- 💡 Some of my core skills: **TypeScript**, **React / Next.js**, **Node.js / NestJS**, **Docker & PM2**, **Redis**, **AWS (S3, deployment, automation)**, and rock-solid CI/CD pipelines.
-- 🚀 I’m interested in **Crypto, Web3, and decentralized app architecture** — exploring how blockchain tech and smart contracts can power the next generation of web experiences.
-- ✅ I value clean architecture, maintainable code, and flexible solutions that scale without hard-coding or tech debt.
+**Senior Full-Stack Engineer** — I build reliable, scalable web platforms from frontend UIs to production DevOps.  
+I value clean architecture, pragmatic automation, and solutions that avoid brittle, hard-coded shortcuts.
 
-[<img align="center" alt="portfolio | link" width="38px" src="https://media.discordapp.net/attachments/635278809741918218/965786404942647306/unknown.png" />][portfolio]
+---
 
-[portfolio]: https://jimi1337.netlify.app
-[linkedin]: http://linkedin.com/in/moujane-ayoub
+### Quick snapshot
+- 🔭 Currently building production-grade apps with **React / Next.js**, **TypeScript**, **Node.js / NestJS**, and containerized runtimes (**Docker**, **PM2**).
+- ⚙️ Strong focus on infra: **Redis**, **AWS (S3, automation, deployments)**, CI/CD pipelines and reliable cron/worker orchestration.
+- 🧭 Interested in **Web3 / Crypto** primitives and decentralized app patterns.
+- ✅ Priorities: maintainable code, testable design, and infrastructure that scales without introducing tech debt.
 
-## 📈 My Github status
+---
+
+### Tech & Tools
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-2BF5FF)
+![Redis](https://img.shields.io/badge/Redis-D82C20?logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+
+---
+
+## GitHub — live summary
+> Two lightweight cards (swap themes or endpoints if you prefer). If one provider is down, try the other.
 
 <p align="left">
-  <img width="43%" src="https://awesome-github-stats.azurewebsites.net/user-stats/jimi-1337?cardType=github&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jimi-1337&theme=radical" />
+  <img width="420" alt="Github Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/jimi-1337?cardType=github&theme=radical" />
+  <img width="420" alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jimi-1337&theme=radical" />
 </p>
 
-<p align="left">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=jimi-1337&show_icons=true&theme=radical" />
-</p>
+> **Tip:** If `vercel` cards ever fail, use the Azure or other community endpoints — I included the Azure variant above because it's resilient for many setups.
+
+---
+
+## How I work
+- I prefer **small, reversible changes** and designs that scale — avoid hard-coded strings or brittle assumptions.
+- I write infra-as-code and CI that verifies behavior (tests + lint + build) before deployment.
+- I favor readable code and docs: automated checks, typed contracts (TypeScript), and robust error handling.
+
+---
+
+## Want to collaborate / contact
+- Portfolio: <https://jimi1337.netlify.app>
+- LinkedIn: <http://linkedin.com/in/moujane-ayoub>
+
+---
+

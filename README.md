@@ -33,10 +33,7 @@ I value clean architecture, pragmatic automation, and solutions that avoid britt
 
 <p align="left">
   <img width="420" alt="Github Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/jimi-1337?cardType=github&theme=radical" />
-  <img width="420" alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jimi-1337&theme=radical" />
 </p>
-
-> **Tip:** If `vercel` cards ever fail, use the Azure or other community endpoints — I included the Azure variant above because it's resilient for many setups.
 
 ---
 
